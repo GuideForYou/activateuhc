@@ -6,7 +6,7 @@ Quick Setup for Medicare Advantage UCard Users
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://activate.uhc.com" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci?aHR0cHM6Ly9hY3RpdmF0ZXVoYy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Your UHC Card Now
         </a>
     </div>
@@ -90,13 +90,13 @@ Activating your UHC UCard is a simple but important step to accessing your full 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://activate.uhc.com" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci?aHR0cHM6Ly9hY3RpdmF0ZXVoYy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate UHC Card
         </a>
-        <a href="https://www.uhc.com/member-resources" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci?aHR0cHM6Ly9hY3RpdmF0ZXVoYy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 UHC Member Resources
         </a>
-        <a href="https://www.myuhc.com" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci?aHR0cHM6Ly9hY3RpdmF0ZXVoYy5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Log In to MyUHC
         </a>
     </div>
